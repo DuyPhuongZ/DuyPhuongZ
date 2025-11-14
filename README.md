@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @DuyPhuongZ<br>- 👀 I’m interested in tech and travelling.<br>- 🌱 I’m currently learning Software Engineering <br>- 😄 Pronouns: He/him<br>- ⚡ Fun fact: Darling in the Franxx is my favourite Anime.
+- Hi, I’m @DuyPhuongZ<br>- I’m interested in tech and travelling.<br>- I’m currently learning Software Engineering <br>- Pronouns: He/him<br>- Fun fact: Darling in the Franxx is my favourite Anime.
 
 
 # 💻 Tech Stack:
